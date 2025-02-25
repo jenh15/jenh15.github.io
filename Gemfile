@@ -1,7 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.2'
-
 group :jekyll_plugins do
-  gem 'jekyll-timeago', '~> 0.13.1'
+  gem 'jekyll'
+  gem 'jekyll-feed'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-redirect-from'
+  gem 'jemoji'
+  gem 'webrick', '~> 1.8'
 end
+
+gem 'github-pages'
