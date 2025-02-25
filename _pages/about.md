@@ -13,8 +13,7 @@ If you would like to check out my GitHub profile or email me, check out the link
 
 Resume
 ======
-<h2><strong>Jenna Huegen  
-
+<h2><strong>Jenna Huegen<br>
 Edwardsville, IL | jhuegen@siue.edu </strong></h2>
 
  
@@ -32,11 +31,11 @@ Edwardsville, IL | jhuegen@siue.edu </strong></h2>
 
 <h3>​<strong>​Skills & abilities​</strong><h3>
 
-​​Management​ 
+​​Management​ <br>
 
-​​Problem solving​ 
+​​Problem solving​ <br>
 
-​​Communication​ 
+​​Communication​ <br>
 
 ​​Leadership​  
 <!--Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
