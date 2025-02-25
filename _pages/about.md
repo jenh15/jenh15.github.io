@@ -27,7 +27,7 @@ Edwardsville, IL | jhuegen@siue.edu </strong></h2>
 ​​Major: Computer Science
  
 
-<h3>​<strong>​Skills & abilities​</strong><h3>
+<h3>​<strong>​Skills & abilities​</strong></h3>
 
 ​​Problem solving​ <br>
 
