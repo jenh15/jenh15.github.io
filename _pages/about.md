@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is my personal website where you can learn all about me! Currently, I am a computer science major studying at the Southern Illnois University, Edwardsville. I enjoy programming, gaming, watching horror movies, and much more. 
+Greetings! This is my personal website where you can learn all about me! Currently, I am a computer science major studying at the Southern Illnois University, Edwardsville. I enjoy programming, gaming, watching horror movies, and much more. 
+
+If you would like to check out my GitHub profile or email me, check out the links in the sidebar to the left! In addition, if you click the <i>Resume</i> tab at the top, you can take a peek at my resume. 
 
 <!--A data-driven personal website
 ======
