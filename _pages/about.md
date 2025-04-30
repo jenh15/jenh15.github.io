@@ -17,8 +17,9 @@ Currently, I am a junior at SIUE studying computer science. I am proficient in P
 <html>
       <figure>
           <img src="..\images\graceaward.jpg" 
-           alt="Me and fellow recipients of Spring 2025 awards" 
-           style="width:128px;height:128px;">
+           alt="Me and fellow recipients of Spring 2025 awards">
            <figcaption>Me receiving the Grace Murray Hopper Memorial Award</figcaption>
       </figure>
 </html>
+
+I have really enjoyed my time at SIUE; one of my favorite classes this semester was an operating systems class. 
