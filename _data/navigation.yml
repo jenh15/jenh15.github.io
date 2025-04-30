@@ -6,7 +6,7 @@
 
 main:
    - title: "Hobbies"
-     url: /publications/
+     url: /hobbies/
 
    - title: "Volunteering"
      url: /talks/    
