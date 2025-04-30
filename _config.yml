@@ -29,7 +29,7 @@ author:
   location         : "Edwardsville, IL"
   employer         : "Southern Illinois University Edwardsville"
   uri              : # URL
-  email            : "jhuegen@siue.edu" 
+  email            : # email
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -75,7 +75,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-Publication Category - The following the list of publication categories and their headings
+# Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
