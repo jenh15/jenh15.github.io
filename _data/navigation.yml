@@ -9,10 +9,7 @@ main:
      url: /hobbies/
 
    - title: "Volunteering"
-     url: /volunteering/    
-
-   - title: "Teaching"
-     url: /teaching/    
+     url: /volunteering/      
     
   #- title: "Resume"
   #  url: /portfolio/
