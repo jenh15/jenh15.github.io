@@ -5,32 +5,24 @@ permalink: /hobbies/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<html>
+    <h1>Art</h1>
+    One of my hobbies includes artistic activities like painting or drawing (even though I am not great at it).
+    I recently went on a trip to the St. Louis Art Museum and would like to share some of my favorite art pieces
+    from the trip.
+    <div class="frame center w3-border-bottom w3-border-left w3-border-right w3-border-top w3-border-black">
+      <div class="scroll-container">
+        <img src="images/ancient.jpg" width="300" height="200">
+
+        <img src="images/degas.jpg" alt="Ballerina Sculpture by Degas" width="300" height="200">
+
+        <img src="images/favpainting.jpg" alt="Water Lillies by Claude Monet" width="300" height="200">
+    </div>
+  </div>
+</html>
 
 
 
