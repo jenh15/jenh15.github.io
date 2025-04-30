@@ -5,12 +5,29 @@ permalink: /volunteering/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<style>
+  .myDiv {
+    border: 5px outset rgb(43, 23, 48);
+    background-color: #5f3939;
+    text-align: center;
+  }
+</style>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<html>
+  <h2>VBS</h2>
+  Every year, I volunteer to help at my hometown's VBS (Vacation Bible School). Last year, I taught the children
+  attending a few dances throughout the week, and on that Friday, we performed the dances for the children's
+  parents. Here are some photos from the last VBS I helped out at!
+  <div class="myDiv">
+    <img src="../images/vbs1.jpg">
+    <img src="../images/vbs2.jpg">
+    <img src="../images/vbs3.jpg">
+    <img src="../images/vbs4.jpg">
+  </div>
 
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+  <h2>Gift Wrapping</h2>
+  For the past two Christmas, I joined my family in helping out my hometown's community by gift wrapping. These
+  gift are not just for anyone, but for less fortune families in the area who cannot afford to give gifts to their
+  kids or each other. This is one of my favorites to volunteer for as it really gives me holiday cheer.
+  <div class="myDiv"> <img src="../images/giftwrapping.jpg"> </div>
+</html>
